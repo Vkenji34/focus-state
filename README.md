@@ -20,7 +20,7 @@ A distraction-free task and focus tracker to help you achieve deep work.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/Vkenji34/focus-state.git
 
 # Install dependencies
 npm install
